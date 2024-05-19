@@ -11,6 +11,9 @@ public class Page_63 {
 		char mySirName;
 		mySirName = '\uAE40';
 		System.out.println(mySirName);
+		
+		String greeting = "Good Morning";
+		System.out.println(greeting);
 	}
 
 }
