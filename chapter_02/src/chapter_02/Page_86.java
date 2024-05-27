@@ -34,6 +34,7 @@ public class Page_86 {
 		System.out.println(a_int);
 		System.out.println((char)(a_int + 1));
 		
-		
+		a_char ^= (1 << 5);
+		System.out.println(a_char);
 	}
 }
