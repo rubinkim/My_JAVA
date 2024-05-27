@@ -32,7 +32,15 @@ public class Page_75 {
 		System.out.println(f);
 		
 		// 논리연산자
+		// &는 연결된 모든 조건식을 다 실행하지만 &&는 앞선 조건식이 false라면 AND조건식의 실행을 종료한다.
+		// |도 마찬가지이다.
 		
+		// 부정연산자
+		boolean isOn = true;
+		isOn = !isOn;
+		System.out.println(isOn);
+		
+		// 비트연산자는 Page_86.java에서 다룬다.
 		
 	}
 
