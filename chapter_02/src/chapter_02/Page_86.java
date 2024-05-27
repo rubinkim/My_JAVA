@@ -14,6 +14,20 @@ public class Page_86 {
 		System.out.println(Integer.toBinaryString(b+c));
 		System.out.println(Integer.toBinaryString(d));
 		System.out.println(e);
+		
+		int aa = 12;
+		System.out.println(Integer.toBinaryString(aa));
+		
+		int f = 12;
+		int g = (~f);
+		System.out.println(g);
+		// -12는 (~f)에다가 +1을 해줘야 한다.
+		int h = (~f)+ 1;
+		System.out.println(h);
+		
+		int bb = b;
+		System.out.println(bb);
+				
 	}
 
 }
