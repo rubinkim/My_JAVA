@@ -31,7 +31,8 @@ public class Page_86 {
 		char a_char = 'A';
 		int a_int = a_char;
 		System.out.println(a_char);
-		System.out.println(a_int);				
+		System.out.println(a_int);
+		System.out.println((char)(a_int + 1));
 	}
 
 }
