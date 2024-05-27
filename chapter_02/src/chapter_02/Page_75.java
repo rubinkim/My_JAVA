@@ -31,6 +31,9 @@ public class Page_75 {
 		f %= g;
 		System.out.println(f);
 		
+		// 논리연산자
+		
+		
 	}
 
 }
