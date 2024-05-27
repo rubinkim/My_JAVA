@@ -12,7 +12,7 @@ public class Page_86 {
 		System.out.println(d);
 		String e = Integer.toBinaryString(d);
 		System.out.println(Integer.toBinaryString(b+c));
-		System.out.println(d);
+		System.out.println(Integer.toBinaryString(d));
 		System.out.println(e);
 	}
 
