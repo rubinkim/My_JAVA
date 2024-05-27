@@ -27,6 +27,9 @@ public class Page_86 {
 		
 		int bb = b;
 		System.out.println(bb);
+		
+		char a_char = 'A';
+		System.out.println(a_char);
 				
 	}
 
