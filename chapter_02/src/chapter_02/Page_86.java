@@ -33,6 +33,7 @@ public class Page_86 {
 		System.out.println(a_char);
 		System.out.println(a_int);
 		System.out.println((char)(a_int + 1));
+		
+		
 	}
-
 }
