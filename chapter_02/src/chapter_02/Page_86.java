@@ -36,5 +36,6 @@ public class Page_86 {
 		
 		a_char ^= (1 << 5);
 		System.out.println(a_char);
+		System.out.println(Integer.toBinaryString(a_char));
 	}
 }
