@@ -22,6 +22,14 @@ public class Page_75 {
 		int g = 2;
 		f += g;
 		System.out.println(f);
+		f -= g;
+		System.out.println(f);
+		f *= g;
+		System.out.println(f);
+		f /= g;
+		System.out.println(f);
+		f %= g;
+		System.out.println(f);
 		
 	}
 
