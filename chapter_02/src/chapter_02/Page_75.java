@@ -16,6 +16,13 @@ public class Page_75 {
 		short d = 10;
 		short e = (short)-d;  // Type mismatch: cannot convert from int to short
 		System.out.println(e);
+		
+		// 복합대입연산자
+		int f = 10;
+		int g = 2;
+		f += g;
+		System.out.println(f);
+		
 	}
 
 }
